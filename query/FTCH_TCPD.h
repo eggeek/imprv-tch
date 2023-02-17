@@ -23,11 +23,11 @@
 #include "datastr/graph/forward_search_graph.h"
 #include "context/search_context.h"
 
-#define INF 9999999;
 
 namespace katch
 {
 
+#define INF 9999999;
     class FTCH_TCPD
     {
 
